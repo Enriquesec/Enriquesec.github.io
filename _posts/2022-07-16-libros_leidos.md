@@ -11,9 +11,13 @@ comments: true
 
 Este post es una bitacorá de mis libros leídos, y dar una descripción y opinión simple sobre estos. Cabe mencionar que no soy experto en literatura sino un simple *amateur* que le gusta la lectura, por lo qué las opiniones de este post se debe tomar con cuatelas. 
 
+### [23. El arte de amar, Erick Fromm](https://amzn.to/3PPN1y5)
+Es una lectura muy pesada, hay conceptos en 
+<div style="text-align: center"><img src="/assets/img/libros_leidos/el_arte_de_amar.jpeg" alt="habitos_atomicos" width="100" border-radius="150"/></div>
+
 ### [22. Hábitos Atómicos, James Clear (17-07-2022)](https://amzn.to/3uXgL4d)
 
-<div style="text-align: center"><img src="/assets/img/libros_leidos/habitos_atomicos.jpeg" alt="habitos_atomicos" width="400" border-radius="150"/></div>
+<div style="text-align: center"><img src="/assets/img/libros_leidos/habitos_atomicos.jpeg" alt="habitos_atomicos" width="100" border-radius="150"/></div>
 
 ### [21. El varon domado, Esther Vilar (08-07-2022)](https://amzn.to/3NQN4bP).
 ### [20. La teoría del todo, Stephen Hawking (30-06-2022)](https://amzn.to/3ARWdOt)
