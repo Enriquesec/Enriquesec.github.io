@@ -15,10 +15,10 @@ Este post es una bitacorá de los libros que leído, intentaré dar una descripc
 
 <div style="text-align: center">
 	<img src="/assets/img/libros_leidos/el_fin_de_la_muerte.jpeg" alt="el_fin_de_la_muerte" width="100" border-radius="150"/>
-	<img src="/assets/img/libros_leidos/el_pequeño_libro_para_invertir_con_sentido_comun.jpg" alt="el_pequeño_libro_para_invertir" width="100" border-radius="150"/>
-	<img src="/assets/img/libros_leidos/el_club_de_las_5_de_la_mañana.jpeg" alt="habitos_atomicos" width="100" border-radius="150"/>
-	<img src="/assets/img/libros_leidos/como_ganar_amigos_e_influir_sobre_las_personas.jpg" alt="habitos_atomicos" width="100" border-radius="150"/>
-	<img src="/assets/img/libros_leidos/segunda_fundacion.jpg" alt="habitos_atomicos" width="100" border-radius="150"/>
+	<img src="/assets/img/libros_leidos/el_pequeno_libro_para_invertir_con_sentido_comun.jpg" alt="el_pequeno_libro_para_invertir" width="100" border-radius="150"/>
+	<img src="/assets/img/libros_leidos/el_club_de_las_5_de_la_manana.jpeg" alt="el_club_de_las_5_de_la_manana" width="100" border-radius="150"/>
+	<img src="/assets/img/libros_leidos/como_ganar_amigos_e_influir_sobre_las_personas.jpg" alt="como_ganar_amigos_e_influir_sobre_las_personas" width="100" border-radius="150"/>
+	<img src="/assets/img/libros_leidos/segunda_fundacion.jpg" alt="segunda_fundacion" width="100" border-radius="150"/>
 	<img src="/assets/img/libros_leidos/fundacion_e_imperio.jpg" alt="fundacion_e_imperio" width="100" border-radius="150"/>
 	<img src="/assets/img/libros_leidos/cronicas_marcianas.jpeg" alt="cronicas_marcianas" width="100" border-radius="150"/>
 	<img src="/assets/img/libros_leidos/fundacion.jpg" alt="fundacion" width="100" border-radius="150"/>
@@ -59,13 +59,13 @@ Este post es una bitacorá de los libros que leído, intentaré dar una descripc
 ### [30. El pequeño libro para invertir con sentido común, Bofle John C.](https://www.amazon.com.mx/peque%25C3%25B1o-libro-invertir-sentido-com%25C3%25BAn/dp/8423425401/ref=sr_1_1?__mk_es_MX=%25C3%2585M%25C3%2585%25C5%25BD%25C3%2595%25C3%2591&amp;crid=1JUE1A9HZL0SB&amp;keywords=El+peque%25C3%25B1o+libro+para+invertir+con+sentido+com%25C3%25BAn&amp;qid=1687628803&amp;sprefix=el+peque%25C3%25B1o+libro+para+invertir+con+sentido+com%25C3%25BAn%252Caps%252C149&amp;sr=8-1&_encoding=UTF8&tag=enriquesec-20&linkCode=ur2&linkId=f24d3d09602960b13957813ebdf1afc9&camp=1789&creative=9325)
 
 <div style="text-align: center">
-	<img src="/assets/img/libros_leidos/el_pequeño_libro_para_invertir_con_sentido_comun.jpg" alt="el_pequeño_libro_para_invertir_con_sentido_comun" width="100" border-radius="150"/>
+	<img src="/assets/img/libros_leidos/el_pequeno_libro_para_invertir_con_sentido_comun.jpg" alt="el_pequeño_libro_para_invertir_con_sentido_comun" width="100" border-radius="150"/>
 </div>
 
 
 ### [29 El club de las 5 de la mañana]() 
 <div style="text-align: center">
-	<img src="/assets/img/libros_leidos/el_club_de_las_5_de_la_mañana.jpeg" alt="el_club_de_las_5_de_la_mañana" width="100" border-radius="150"/>
+	<img src="/assets/img/libros_leidos/el_club_de_las_5_de_la_manana.jpeg" alt="el_club_de_las_5_de_la_manana" width="100" border-radius="150"/>
 </div>
 
 ### [28. Cómo ganar amigos e influir sobre las personas]()
