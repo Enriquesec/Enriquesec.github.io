@@ -6,7 +6,7 @@ description: "Analizaremos el comportamiento de los podcast que se encuentran en
 github_url: https://github.com/Enriquesec/podcasts_are_cool
 zip_url: /assets/zips/police-shootings-eda.zip
 img_url: /assets/img/podcasts_are_cool/episodios_complete.png
-tags: [api, visualización]
+tags: [estadística, programación, api, visualización, python]
 language: [python]
 comments: true
 ---
