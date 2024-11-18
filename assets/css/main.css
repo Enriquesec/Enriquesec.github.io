@@ -95,6 +95,8 @@ body{
   float: left;
   position: relative;
   bottom: 15px;
+  ont-size: clamp(1.5rem, 5vw, 3rem);
+  overflow-wrap: break-word;
 }
 
 .language-python.highlighter-rouge {
